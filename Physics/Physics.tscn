@@ -1,6 +1,6 @@
 [gd_scene load_steps=6 format=3 uid="uid://qvqhg4ps8ojm"]
 
-[ext_resource type="Texture2D" uid="uid://dl171ngnnem13" path="res://assets/Physics Project/PhysicsCharacter.png" id="1_ybanr"]
+[ext_resource type="Texture2D" uid="uid://dl171ngnnem13" path="res://Physics/Physics Project/PhysicsCharacter.png" id="1_ybanr"]
 [ext_resource type="Script" path="res://Physics/PhysicsPlayer.gd" id="1_ywmk5"]
 [ext_resource type="PackedScene" uid="uid://ccm8pu6gtwbww" path="res://Physics/Crate.tscn" id="3_dqwv6"]
 [ext_resource type="PackedScene" uid="uid://c7bjspe1ownty" path="res://Physics/Wall.tscn" id="4_aq4of"]

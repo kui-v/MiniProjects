@@ -1,6 +1,6 @@
 [gd_scene load_steps=3 format=3 uid="uid://ccm8pu6gtwbww"]
 
-[ext_resource type="Texture2D" uid="uid://dfbauvp28qibp" path="res://assets/Physics Project/Crate.png" id="1_hx3x6"]
+[ext_resource type="Texture2D" uid="uid://dfbauvp28qibp" path="res://Physics/Physics Project/Crate.png" id="1_hx3x6"]
 
 [sub_resource type="RectangleShape2D" id="RectangleShape2D_3clc4"]
 size = Vector2(18, 18)
